@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-FIAM-GTM-Issue/Pods-FIAM-GTM-Issue-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseInAppMessagingDisplay/InAppMessagingDisplayResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleTagManager/TagManagerResources.bundle

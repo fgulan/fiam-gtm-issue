@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>964421622948-99li2ais71891qiv178722pdqf6jce39.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.964421622948-99li2ais71891qiv178722pdqf6jce39</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuPvAceMB7LJHZgqj9BHJRN_ep7VsP2y4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>964421622948</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.infinum.FIAM-GTM-Issue</string>
+	<key>PROJECT_ID</key>
+	<string>fiam-gtm-issue</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fiam-gtm-issue.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:964421622948:ios:ea2d02cb6a9e996d7b5a31</string>
+	<key>DATABASE_URL</key>
+	<string>https://fiam-gtm-issue.firebaseio.com</string>
+</dict>
+</plist>
